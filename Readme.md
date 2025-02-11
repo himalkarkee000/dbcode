@@ -1,0 +1,1 @@
+code aahe lae samma withou file ko xa so json raw bata data pathau na parni xa
